@@ -1,0 +1,36 @@
+{
+  "name": "Chicken Burrito Bowl",
+  "description": "Seasoned chicken over rice with black beans, corn and salsa. Meal-prep friendly.",
+  "servings": 4,
+  "servingSize": "1 bowl",
+  "prepMinutes": 10,
+  "cookMinutes": 25,
+  "ingredients": [
+    "454 g boneless skinless chicken breast",
+    "185 g uncooked long-grain white rice",
+    "1 can (15 oz) black beans, drained and rinsed",
+    "150 g frozen sweet corn",
+    "260 g chunky tomato salsa",
+    "1 tbsp olive oil",
+    "8 g taco seasoning"
+  ],
+  "instructions": [
+    "Cook the rice according to the package directions.",
+    "Toss the chicken with the taco seasoning. Heat the oil in a skillet over medium-high heat and cook the chicken 6-7 minutes per side, until it reaches 165°F / 74°C. Rest 5 minutes, then slice.",
+    "Warm the beans and corn together in the same skillet.",
+    "Divide the rice, chicken, beans and corn between 4 bowls and top each with salsa."
+  ],
+  "nutritionPerServing": {
+    "calories": 474,
+    "fat": 7.4,
+    "saturatedFat": 1.3,
+    "cholesterol": 83,
+    "sodium": 875,
+    "carbohydrates": 64,
+    "fiber": 8,
+    "sugar": 4,
+    "protein": 36
+  },
+  "tags": ["dinner", "meal prep", "high protein"],
+  "date": "2026-10-22"
+}
