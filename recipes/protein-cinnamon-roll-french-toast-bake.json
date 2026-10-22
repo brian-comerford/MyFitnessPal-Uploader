@@ -1,0 +1,48 @@
+{
+  "name": "Protein Cinnamon Roll French Toast Bake",
+  "description": "Gooey cinnamon-swirl French toast casserole with Sola and Nature's Own protein breads, cottage cheese, and Orgain vanilla protein; no icing.",
+  "date": "2026-10-22",
+  "servings": 6,
+  "servingSize": "1/6 casserole",
+  "prepMinutes": 15,
+  "cookMinutes": 50,
+  "ingredients": [
+    "270 g Sola protein bread",
+    "65 g Nature's Own Protein Plus bread",
+    "226 g Great Value 2% small curd cottage cheese",
+    "113 g Great Value nonfat plain Greek yogurt",
+    "360 g liquid egg whites",
+    "100 g raw whole eggs",
+    "210 g Fairlife fat-free milk",
+    "38.25 g Orgain Organic Protein 50 Superfoods vanilla bean powder",
+    "64 g Swerve brown sugar substitute",
+    "28 g light butter",
+    "13 g ground cinnamon",
+    "15 g vanilla extract",
+    "1 g salt"
+  ],
+  "instructions": [
+    "Cut both breads into cubes and spread in a greased 9-by-9-inch baking dish.",
+    "Blend cottage cheese, Greek yogurt, egg whites, whole eggs, 180 g milk, Orgain protein powder, 3 g cinnamon, 10 g vanilla extract, and salt until smooth.",
+    "Pour custard over bread, press gently, and refrigerate 30–60 minutes or overnight.",
+    "Mix Swerve brown sugar, melted light butter, remaining 30 g milk, 10 g cinnamon, and 5 g vanilla extract. Dollop over bread and gently swirl.",
+    "Cover with foil and bake at 350°F (175°C) for 30 minutes. Uncover and bake 15–25 minutes more, until the center reaches 160°F (71°C).",
+    "Rest 10 minutes and divide into six portions. No icing."
+  ],
+  "nutritionPerServing": {
+    "calories": 287,
+    "fat": 6.7,
+    "saturatedFat": 2.3,
+    "cholesterol": 75,
+    "sodium": 660,
+    "carbohydrates": 37.5,
+    "fiber": 9,
+    "sugar": 5,
+    "protein": 34
+  },
+  "tags": [
+    "breakfast",
+    "high-protein",
+    "meal-prep"
+  ]
+}
